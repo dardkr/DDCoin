@@ -1,0 +1,2 @@
+# DDCoin
+my readme
